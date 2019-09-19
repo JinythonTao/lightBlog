@@ -1,0 +1,25 @@
+[[source]]
+name = "tsinghua"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-sqlalchemy = "*"
+flask-login = "*"
+flask-mail = "*"
+flask-bootstrap = "*"
+flask-moment = "*"
+flask-wtf = "*"
+pyjwt = "*"
+faker = "*"
+requests = "*"
+flask-migrate = "*"
+python-dotenv = "*"
+sqlalchemy-migrate = "*"
+flask-paginate = "*"
+
+[requires]
+python_version = "3.6"
