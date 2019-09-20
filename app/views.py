@@ -1,4 +1,4 @@
-import os, random, requests
+import os, random, requests, sys, json
 import faker
 from datetime import datetime
 from flask import render_template, flash, redirect, url_for, request
@@ -244,20 +244,28 @@ def movie(tag):
     dateList = [f.date_between("-5y", "today") for i in range(50)]
     addressList = [f.country() for i in range(20)]
     countList = [84, 62, 108, 79, 124, 110, 89, 105]
-    # 访问豆瓣,获取影片信息
-    url = "https://movie.douban.com/j/search_subjects?"
-    param = "type=movie&tag={tag}&page_limit={count}&page_start=0".format(tag=tag, count=countList[tagList.index(tag)])
-    movieList = requests.get(url + param).json().get("subjects")
     movies = []
-    # 封装电影数据
-    for movie in movieList:
-        # 豆瓣图片有限制,利用图片缓存异步加载的方式解决
-        imageUrl = "https://images.weserv.nl/?url=" + movie["cover"].split("//")[1]
-        movies.append(
-            {"电影名称": movie["title"], "电影图片": imageUrl, "电影详情": movie["url"],
-             "电影评分": movie["rate"], "电影类型": random.choice(movieType),
-             "制片地区/国家": tag if tag == "韩国" or tag == "日本" else random.choice(addressList),
-             "是否新片": "是" if movie["is_new"] else "否", "上映时间": random.choice(dateList)})
+    movieCount = countList[tagList.index(tag)]
+    # 访问豆瓣,获取影片信息
+    system = sys.platform
+    if system == "win32":
+        url = "https://movie.douban.com/j/search_subjects?"
+        param = "type=movie&tag={tag}&page_limit={count}&page_start=0".format(tag=tag, count=movieCount)
+        movieList = requests.get(url + param).json().get("subjects")
+        
+        # 封装电影数据
+        for movie in movieList:
+            # 豆瓣图片有限制,利用图片缓存异步加载的方式解决
+            imageUrl = "https://images.weserv.nl/?url=" + movie["cover"].split("//")[1]
+            movies.append(
+                {"电影名称": movie["title"], "电影图片": imageUrl, "电影详情": movie["url"],
+                 "电影评分": movie["rate"], "电影类型": random.choice(movieType),
+                 "制片地区/国家": tag if tag == "韩国" or tag == "日本" else random.choice(addressList),
+                 "是否新片": "是" if movie["is_new"] else "否", "上映时间": random.choice(dateList)})
+    else:
+        with open(app.config["MOVIE_FOLDER"] + "{}.json".format(tag), "r", encoding='utf-8') as ff:
+            movieDataList = json.load(ff)
+            movies.extend(movieDataList)
     
     PER_PAGE = 20  # 每页显示数量
     total = len(movies)  # 数据总数

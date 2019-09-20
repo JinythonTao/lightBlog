@@ -21,6 +21,10 @@ ADMINS = ['flasktest1108@163.com']
 POSTS_PER_PAGE = 5
 UPLOAD_FOLDER = os.getcwd() + '/app/static/images/avatar/'
 
-# 游戏图片储存位置
+# 游戏图片 电影信息 储存位置
 GAME_FOLDER = os.getcwd() + '/app/static/images/game/'
+MOVIE_FOLDER = os.getcwd() + '/app/static/movies/'
+
+
+
 
