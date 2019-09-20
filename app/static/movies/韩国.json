@@ -1,0 +1,892 @@
+[
+  {
+    "电影名称": "寄生虫",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg",
+    "电影详情": "https://movie.douban.com/subject/27010768/",
+    "电影评分": "8.7",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-05-19"
+  },
+  {
+    "电影名称": "釜山行",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2360940399.jpg",
+    "电影详情": "https://movie.douban.com/subject/25986180/",
+    "电影评分": "8.4",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-13"
+  },
+  {
+    "电影名称": "熔炉",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg",
+    "电影详情": "https://movie.douban.com/subject/5912992/",
+    "电影评分": "9.3",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-11-08"
+  },
+  {
+    "电影名称": "素媛",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg",
+    "电影详情": "https://movie.douban.com/subject/21937452/",
+    "电影评分": "9.2",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-12-05"
+  },
+  {
+    "电影名称": "辩护人",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg",
+    "电影详情": "https://movie.douban.com/subject/21937445/",
+    "电影评分": "9.2",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-03-13"
+  },
+  {
+    "电影名称": "7号房的礼物",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg",
+    "电影详情": "https://movie.douban.com/subject/10777687/",
+    "电影评分": "8.8",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-02-26"
+  },
+  {
+    "电影名称": "极限逃生",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2563546656.jpg",
+    "电影详情": "https://movie.douban.com/subject/30210691/",
+    "电影评分": "7.7",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2019-07-06"
+  },
+  {
+    "电影名称": "阳光姐妹淘",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg",
+    "电影详情": "https://movie.douban.com/subject/4917726/",
+    "电影评分": "8.8",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-04-05"
+  },
+  {
+    "电影名称": "恐怖直播",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg",
+    "电影详情": "https://movie.douban.com/subject/21360417/",
+    "电影评分": "8.8",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-02-26"
+  },
+  {
+    "电影名称": "杀人回忆",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p480225538.jpg",
+    "电影详情": "https://movie.douban.com/subject/1300299/",
+    "电影评分": "8.8",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-08-30"
+  },
+  {
+    "电影名称": "恶人传",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2555084871.jpg",
+    "电影详情": "https://movie.douban.com/subject/30211551/",
+    "电影评分": "7.7",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-10-07"
+  },
+  {
+    "电影名称": "我的野蛮女友",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p489336497.jpg",
+    "电影详情": "https://movie.douban.com/subject/1292286/",
+    "电影评分": "8.2",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-05-16"
+  },
+  {
+    "电影名称": "燃烧",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2520095279.jpg",
+    "电影详情": "https://movie.douban.com/subject/26842702/",
+    "电影评分": "7.9",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-12-14"
+  },
+  {
+    "电影名称": "雪国列车",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2173648321.jpg",
+    "电影详情": "https://movie.douban.com/subject/3071441/",
+    "电影评分": "7.4",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-01-25"
+  },
+  {
+    "电影名称": "假如爱有天意",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p479746811.jpg",
+    "电影详情": "https://movie.douban.com/subject/1304073/",
+    "电影评分": "8.3",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-12-05"
+  },
+  {
+    "电影名称": "新世界",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1903379979.jpg",
+    "电影详情": "https://movie.douban.com/subject/10437779/",
+    "电影评分": "8.7",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-01-31"
+  },
+  {
+    "电影名称": "极限职业",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2542216607.jpg",
+    "电影详情": "https://movie.douban.com/subject/27597250/",
+    "电影评分": "7.7",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-08"
+  },
+  {
+    "电影名称": "小姐",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2355555424.jpg",
+    "电影详情": "https://movie.douban.com/subject/25977027/",
+    "电影评分": "8.1",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-02-14"
+  },
+  {
+    "电影名称": "与神同行：罪与罚",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2500130777.jpg",
+    "电影详情": "https://movie.douban.com/subject/11584016/",
+    "电影评分": "7.7",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-02-26"
+  },
+  {
+    "电影名称": "汉江怪物",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p452546089.jpg",
+    "电影详情": "https://movie.douban.com/subject/1763134/",
+    "电影评分": "7.4",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-01-05"
+  },
+  {
+    "电影名称": "狼少年",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2159648145.jpg",
+    "电影详情": "https://movie.douban.com/subject/6844868/",
+    "电影评分": "7.9",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-03-14"
+  },
+  {
+    "电影名称": "隐秘而伟大",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1947401961.jpg",
+    "电影详情": "https://movie.douban.com/subject/6057942/",
+    "电影评分": "7.8",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-01-25"
+  },
+  {
+    "电影名称": "我脑中的橡皮擦",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p465680286.jpg",
+    "电影详情": "https://movie.douban.com/subject/1308804/",
+    "电影评分": "7.9",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2019-05-02"
+  },
+  {
+    "电影名称": "特工",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2528281606.jpg",
+    "电影详情": "https://movie.douban.com/subject/26683421/",
+    "电影评分": "8.5",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-12-27"
+  },
+  {
+    "电影名称": "昆池岩",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2513360824.jpg",
+    "电影详情": "https://movie.douban.com/subject/26945085/",
+    "电影评分": "6.1",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-04-16"
+  },
+  {
+    "电影名称": "我身体里的那个家伙",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2540444795.jpg",
+    "电影详情": "https://movie.douban.com/subject/27088750/",
+    "电影评分": "7.1",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2019-07-06"
+  },
+  {
+    "电影名称": "老男孩",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2166892850.jpg",
+    "电影详情": "https://movie.douban.com/subject/1308865/",
+    "电影评分": "8.2",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-02-14"
+  },
+  {
+    "电影名称": "魔女",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2522814268.jpg",
+    "电影详情": "https://movie.douban.com/subject/26602900/",
+    "电影评分": "7.5",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-02-13"
+  },
+  {
+    "电影名称": "雏菊",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p479188725.jpg",
+    "电影详情": "https://movie.douban.com/subject/1433360/",
+    "电影评分": "8.0",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-01-31"
+  },
+  {
+    "电影名称": "金福南杀人事件始末",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p596526266.jpg",
+    "电影详情": "https://movie.douban.com/subject/4826419/",
+    "电影评分": "8.5",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-11"
+  },
+  {
+    "电影名称": "流感",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2029391129.jpg",
+    "电影详情": "https://movie.douban.com/subject/10432911/",
+    "电影评分": "7.9",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-07-14"
+  },
+  {
+    "电影名称": "追击者",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2496896804.jpg",
+    "电影详情": "https://movie.douban.com/subject/3006309/",
+    "电影评分": "8.4",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-09-14"
+  },
+  {
+    "电影名称": "隧道",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2358109451.jpg",
+    "电影详情": "https://movie.douban.com/subject/26410594/",
+    "电影评分": "7.8",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2019-06-08"
+  },
+  {
+    "电影名称": "与神同行2：因与缘",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2527205786.jpg",
+    "电影详情": "https://movie.douban.com/subject/27003543/",
+    "电影评分": "7.5",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-08-30"
+  },
+  {
+    "电影名称": "暗杀",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2265025290.jpg",
+    "电影详情": "https://movie.douban.com/subject/25823132/",
+    "电影评分": "8.0",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-13"
+  },
+  {
+    "电影名称": "我爱你",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1075591188.jpg",
+    "电影详情": "https://movie.douban.com/subject/5908478/",
+    "电影评分": "9.0",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-12-05"
+  },
+  {
+    "电影名称": "黄海",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1075586949.jpg",
+    "电影详情": "https://movie.douban.com/subject/3743114/",
+    "电影评分": "8.4",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-12-05"
+  },
+  {
+    "电影名称": "夺宝联盟",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1761853840.jpg",
+    "电影详情": "https://movie.douban.com/subject/5502697/",
+    "电影评分": "7.2",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-02-23"
+  },
+  {
+    "电影名称": "我的一级兄弟",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2548467439.jpg",
+    "电影详情": "https://movie.douban.com/subject/30143333/",
+    "电影评分": "8.3",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-02-26"
+  },
+  {
+    "电影名称": "现在去见你",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2515516851.jpg",
+    "电影详情": "https://movie.douban.com/subject/27018285/",
+    "电影评分": "8.2",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-06-13"
+  },
+  {
+    "电影名称": "丑女大翻身",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1765318197.jpg",
+    "电影详情": "https://movie.douban.com/subject/2037796/",
+    "电影评分": "7.2",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-01-05"
+  },
+  {
+    "电影名称": "铁雨",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2505050710.jpg",
+    "电影详情": "https://movie.douban.com/subject/26863778/",
+    "电影评分": "8.2",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-13"
+  },
+  {
+    "电影名称": "奇怪的她",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2162863558.jpg",
+    "电影详情": "https://movie.douban.com/subject/24879820/",
+    "电影评分": "8.3",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2019-01-15"
+  },
+  {
+    "电影名称": "小委托人",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2561250744.jpg",
+    "电影详情": "https://movie.douban.com/subject/33404726/",
+    "电影评分": "8.0",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-08"
+  },
+  {
+    "电影名称": "晚秋",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1486436454.jpg",
+    "电影详情": "https://movie.douban.com/subject/4136036/",
+    "电影评分": "7.0",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2014-12-29"
+  },
+  {
+    "电影名称": "开心家族",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p892692364.jpg",
+    "电影详情": "https://movie.douban.com/subject/6019180/",
+    "电影评分": "8.5",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-01-05"
+  },
+  {
+    "电影名称": "孤胆特工",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1187020899.jpg",
+    "电影详情": "https://movie.douban.com/subject/4249355/",
+    "电影评分": "8.1",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2019-06-08"
+  },
+  {
+    "电影名称": "老手",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2251912398.jpg",
+    "电影详情": "https://movie.douban.com/subject/25728010/",
+    "电影评分": "7.7",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-12-05"
+  },
+  {
+    "电影名称": "思悼",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2256702287.jpg",
+    "电影详情": "https://movie.douban.com/subject/25859495/",
+    "电影评分": "8.4",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-01-09"
+  },
+  {
+    "电影名称": "哭声",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2339592703.jpg",
+    "电影详情": "https://movie.douban.com/subject/25817534/",
+    "电影评分": "7.2",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-03-14"
+  },
+  {
+    "电影名称": "内在美",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2248466858.jpg",
+    "电影详情": "https://movie.douban.com/subject/26235839/",
+    "电影评分": "7.6",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-01-20"
+  },
+  {
+    "电影名称": "亲切的金子",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2561799537.jpg",
+    "电影详情": "https://movie.douban.com/subject/1412579/",
+    "电影评分": "7.6",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-08-12"
+  },
+  {
+    "电影名称": "摇摆狂潮",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2545836537.jpg",
+    "电影详情": "https://movie.douban.com/subject/27042467/",
+    "电影评分": "8.2",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-12-05"
+  },
+  {
+    "电影名称": "检察官外传",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2298188494.jpg",
+    "电影详情": "https://movie.douban.com/subject/26088403/",
+    "电影评分": "7.4",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-11-08"
+  },
+  {
+    "电影名称": "色即是空",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1708333849.jpg",
+    "电影详情": "https://movie.douban.com/subject/1305279/",
+    "电影评分": "7.2",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-11-08"
+  },
+  {
+    "电影名称": "非常主播",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p547516194.jpg",
+    "电影详情": "https://movie.douban.com/subject/3550132/",
+    "电影评分": "7.9",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-07-14"
+  },
+  {
+    "电影名称": "我能说",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2498433749.jpg",
+    "电影详情": "https://movie.douban.com/subject/27000061/",
+    "电影评分": "8.8",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-03-01"
+  },
+  {
+    "电影名称": "空房间",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p462432458.jpg",
+    "电影详情": "https://movie.douban.com/subject/1308833/",
+    "电影评分": "8.0",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-01-05"
+  },
+  {
+    "电影名称": "卑劣的街头",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p750440773.jpg",
+    "电影详情": "https://movie.douban.com/subject/1827713/",
+    "电影评分": "7.9",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-12-08"
+  },
+  {
+    "电影名称": "姐姐",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2544302605.jpg",
+    "电影详情": "https://movie.douban.com/subject/26825688/",
+    "电影评分": "6.4",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-12-06"
+  },
+  {
+    "电影名称": "看见恶魔",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p555826078.jpg",
+    "电影详情": "https://movie.douban.com/subject/4280770/",
+    "电影评分": "7.7",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-12-14"
+  },
+  {
+    "电影名称": "铁线虫入侵",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1588680264.jpg",
+    "电影详情": "https://movie.douban.com/subject/6839145/",
+    "电影评分": "6.7",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-02-23"
+  },
+  {
+    "电影名称": "国家破产之日",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2536564565.jpg",
+    "电影详情": "https://movie.douban.com/subject/27197086/",
+    "电影评分": "7.5",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-09-14"
+  },
+  {
+    "电影名称": "母亲",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1518748581.jpg",
+    "电影详情": "https://movie.douban.com/subject/3036460/",
+    "电影评分": "8.3",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-01-25"
+  },
+  {
+    "电影名称": "不可饶恕",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2407347002.jpg",
+    "电影详情": "https://movie.douban.com/subject/3992381/",
+    "电影评分": "7.8",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-01-05"
+  },
+  {
+    "电影名称": "女警",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2553964373.jpg",
+    "电影详情": "https://movie.douban.com/subject/30204142/",
+    "电影评分": "6.7",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-01-31"
+  },
+  {
+    "电影名称": "局内人",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2275293773.jpg",
+    "电影详情": "https://movie.douban.com/subject/25862354/",
+    "电影评分": "7.8",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-09-17"
+  },
+  {
+    "电影名称": "王的男人",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p454364823.jpg",
+    "电影详情": "https://movie.douban.com/subject/1466394/",
+    "电影评分": "6.9",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-02-23"
+  },
+  {
+    "电影名称": "伟大的愿望",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2382130301.jpg",
+    "电影详情": "https://movie.douban.com/subject/26329059/",
+    "电影评分": "7.4",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-06-27"
+  },
+  {
+    "电影名称": "犯罪都市",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2496564367.jpg",
+    "电影详情": "https://movie.douban.com/subject/26946510/",
+    "电影评分": "7.5",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2014-12-29"
+  },
+  {
+    "电影名称": "阴曹使者",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2560576875.jpg",
+    "电影详情": "https://movie.douban.com/subject/30181079/",
+    "电影评分": "6.3",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-06-27"
+  },
+  {
+    "电影名称": "军舰岛",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2462745948.jpg",
+    "电影详情": "https://movie.douban.com/subject/26445216/",
+    "电影评分": "7.8",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-03-24"
+  },
+  {
+    "电影名称": "人间中毒",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2208681237.jpg",
+    "电影详情": "https://movie.douban.com/subject/25700838/",
+    "电影评分": "6.4",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-12-30"
+  },
+  {
+    "电影名称": "春夏秋冬又一春",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2554626580.jpg",
+    "电影详情": "https://movie.douban.com/subject/1316580/",
+    "电影评分": "8.5",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-01-20"
+  },
+  {
+    "电影名称": "奸臣",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2254795801.jpg",
+    "电影详情": "https://movie.douban.com/subject/25823840/",
+    "电影评分": "6.5",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-12-06"
+  },
+  {
+    "电影名称": "杀人者的记忆法",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2502854299.jpg",
+    "电影详情": "https://movie.douban.com/subject/26391916/",
+    "电影评分": "7.6",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-09-17"
+  },
+  {
+    "电影名称": "共同警备区",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p1603485241.jpg",
+    "电影详情": "https://movie.douban.com/subject/1306664/",
+    "电影评分": "8.7",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-11"
+  },
+  {
+    "电影名称": "娑婆诃",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2545549959.jpg",
+    "电影详情": "https://movie.douban.com/subject/27109171/",
+    "电影评分": "7.1",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-03-08"
+  },
+  {
+    "电影名称": "小森林",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2512152196.jpg",
+    "电影详情": "https://movie.douban.com/subject/26877492/",
+    "电影评分": "7.3",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-08-12"
+  },
+  {
+    "电影名称": "爱·回家",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2107418134.jpg",
+    "电影详情": "https://movie.douban.com/subject/1299361/",
+    "电影评分": "9.1",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-02-26"
+  },
+  {
+    "电影名称": "比悲伤更悲伤的故事",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2020728553.jpg",
+    "电影详情": "https://movie.douban.com/subject/3805946/",
+    "电影评分": "7.7",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-07-14"
+  },
+  {
+    "电影名称": "绝密跟踪",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2199597040.jpg",
+    "电影详情": "https://movie.douban.com/subject/20388224/",
+    "电影评分": "7.7",
+    "电影类型": "剧情 / 悬疑",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-01-05"
+  },
+  {
+    "电影名称": "杀人漫画",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p1980106659.jpg",
+    "电影详情": "https://movie.douban.com/subject/24695966/",
+    "电影评分": "7.1",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-12-30"
+  },
+  {
+    "电影名称": "证人",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2552969589.jpg",
+    "电影详情": "https://movie.douban.com/subject/30306764/",
+    "电影评分": "7.7",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-03-01"
+  },
+  {
+    "电影名称": "建筑学概论",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2207672645.jpg",
+    "电影详情": "https://movie.douban.com/subject/6900092/",
+    "电影评分": "7.5",
+    "电影类型": "剧情 / 历史 / 战争",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2016-11-11"
+  },
+  {
+    "电影名称": "结婚礼服",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2163657305.jpg",
+    "电影详情": "https://movie.douban.com/subject/4230918/",
+    "电影评分": "8.5",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-07-08"
+  },
+  {
+    "电影名称": "蚯蚓",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2458429082.jpg",
+    "电影详情": "https://movie.douban.com/subject/27038968/",
+    "电影评分": "7.1",
+    "电影类型": "剧情 / 科幻",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2015-01-09"
+  },
+  {
+    "电影名称": "王者",
+    "电影图片": "https://images.weserv.nl/?url=img3.doubanio.com/view/photo/s_ratio_poster/public/p2413029060.jpg",
+    "电影详情": "https://movie.douban.com/subject/26410593/",
+    "电影评分": "7.6",
+    "电影类型": " 剧情 / 喜剧",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2017-06-13"
+  },
+  {
+    "电影名称": "门锁",
+    "电影图片": "https://images.weserv.nl/?url=img1.doubanio.com/view/photo/s_ratio_poster/public/p2537955628.jpg",
+    "电影详情": "https://movie.douban.com/subject/27617348/",
+    "电影评分": "6.8",
+    "电影类型": "动作 / 科幻 / 冒险",
+    "制片地区/国家": "韩国",
+    "是否新片": "否",
+    "上映时间": "2018-07-14"
+  }
+]
